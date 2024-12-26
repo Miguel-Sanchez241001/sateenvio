@@ -1,0 +1,4 @@
+2024-10-02 09:22:21,608 ERROR Main.MainProcess  - Número insuficiente de argumentos. Se requieren 5 argumentos: <typeProcess> <urlConection> <pathFile> <procedure> <codeprocess> 
+2024-10-02 09:22:38,226 ERROR Main.MainProcess  - Número insuficiente de argumentos. Se requieren 5 argumentos: <typeProcess> <urlConection> <pathFile> <procedure> <codeprocess> 
+2024-10-02 09:23:27,996 ERROR Main.MainProcess  - Número insuficiente de argumentos. Se requieren 5 argumentos: <typeProcess> <urlConection> <pathFile> <procedure> <codeprocess> 
+2024-10-02 09:24:11,142 ERROR Main.MainProcess  - Error proceso anterior
